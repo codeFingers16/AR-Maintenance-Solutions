@@ -11,16 +11,16 @@ import {
 } from "lucide-react";
 import {FaFacebook as Facebook} from "react-icons/fa";
 import {FaInstagram as Instagram } from "react-icons/fa";
-import heroImg from "@/assets/hero-welding.jpg";
-import aboutImg from "@/assets/team-roofing.jpg";
-import galleryGateWhite from "@/assets/gallery-gate-white.jpg";
-import galleryFenceGrey from "@/assets/gallery-fence-grey.jpg";
-import galleryGateCharcoal from "@/assets/gallery-gate-charcoal.jpg";
-import galleryGateWood from "@/assets/gallery-gate-wood.jpg";
-import galleryFenceBeige from "@/assets/gallery-fence-beige.jpg";
-import teamAssembly from "@/assets/team-assembly.jpg";
-import teamWelding from "@/assets/team-welding.jpg";
-import teamRoofing from "@/assets/team-roofing.jpg";
+import heroImg from "@/assets/hero-welding.webp";
+import aboutImg from "@/assets/team-roofing.webp";
+import galleryGateWhite from "@/assets/gallery-gate-white.webp";
+import galleryFenceGrey from "@/assets/gallery-fence-grey.webp";
+import galleryGateCharcoal from "@/assets/gallery-gate-charcoal.webp";
+import galleryGateWood from "@/assets/gallery-gate-wood.webp";
+import galleryFenceBeige from "@/assets/gallery-fence-beige.webp";
+import teamAssembly from "@/assets/team-assembly.webp";
+import teamWelding from "@/assets/team-welding.webp";
+import teamRoofing from "@/assets/team-roofing.webp";
 
 const galleryItems = [
   { src: galleryGateCharcoal, label: "Charcoal Sliding Gate" },
