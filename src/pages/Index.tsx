@@ -427,7 +427,7 @@ const Index = () => {
           </div>
         </div>
         <div className="border-t border-primary-foreground/15 pt-6 text-center text-sm text-primary-foreground/60">
-          © {new Date().getFullYear()} AR Maintenance Solutions · CIPC Registered · All rights reserved.
+          © {new Date().getFullYear()} AR Maintenance Solutions · CIPC Registered · All rights reserved · Built By <a href="https://valmora.co.za/" className="hover:text-accent transition-smooth">Valmora</a>
         </div>
       </footer>
 
